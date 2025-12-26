@@ -10,7 +10,8 @@
 
 ## Connect with me
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kaggle)](https://www.kaggle.com/jeminm)
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)]([https://www.linkedin.com/in/jemin-morabiya-339852368])
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/jemin-morabiya-339852368)
+
 
 ## 🛠️ Skills
 
