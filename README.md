@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jemin Morabiya</h1>
+<h3 align="center">AI/ML • Computer Vision • Embedded Systems</h3>
 
-<!--
-**jemin-023/jemin-023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Computer Vision, ML and Embedded Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **jeminmorabiyawork@gmail.com**
+
+- ⚡ Fun fact **I like cats!**
+
+## Connect with me
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kaggle)](https://www.kaggle.com/jeminm)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)]([https://www.linkedin.com/in/jemin-morabiya-339852368])
+
+## 🛠️ Skills
+
+### 💻 Languages
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,bash)
+
+### 🧠 AI & ML
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,pytorch)
+
+### 🖥️ Operating Systems
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,mint,ubuntu)
+
+### ⚙️ Tools & Others
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,git,github)
