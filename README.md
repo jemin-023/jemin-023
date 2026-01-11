@@ -19,7 +19,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,bash)
 
 ### 🧠 AI & ML
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,pytorch)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,pytorch,jax)
 
 ### 🖥️ Operating Systems
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,mint,ubuntu)
