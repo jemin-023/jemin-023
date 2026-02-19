@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Computer Vision, ML and Embedded Systems**
 
+- ✨ Working on my startup, **NexFolio**
+
 - 📫 How to reach me **jeminmorabiyawork@gmail.com**
 
 - ⚡ Fun fact **I like cats!**
