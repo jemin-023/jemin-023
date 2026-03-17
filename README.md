@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="Bit_Pixel_Art_F_GIF_Generation.gif" alt="Welcome Banner" width="1200px">
-</p>
-
 <h1 align="center">Hi 👋, I'm Jemin Morabiya</h1>
 <h3 align="center">AI/ML • Computer Vision • Embedded Systems</h3>
 
