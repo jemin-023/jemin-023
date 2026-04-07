@@ -26,3 +26,6 @@
 
 ### ⚙️ Tools & Others
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,git,github,n8n,docker)
+
+### 📚 Currently Learning
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust)
