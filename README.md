@@ -22,7 +22,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,pytorch,jax,opencv)
 
 ### 🖥️ Operating Systems
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,mint,ubuntu)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,mint,ubuntu,arch)
 
 ### ⚙️ Tools & Others
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,git,github,n8n,docker)
