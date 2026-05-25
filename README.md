@@ -18,8 +18,11 @@
 ### 💻 Languages
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,bash)
 
+### 📊 Data Science
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,polars,matplotlib)
+
 ### 🧠 AI & ML
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,pytorch,jax,opencv)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,jax,opencv)
 
 ### 🖥️ Operating Systems
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,mint,ubuntu,arch)
