@@ -16,7 +16,7 @@
 ## 🛠️ Skills
 
 ### 💻 Languages
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,bash)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,bash)
 
 ### 📊 Data Science
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,polars,matplotlib)
