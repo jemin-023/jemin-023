@@ -1,8 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jemin Morabiya</h1>
-<h3 align="center">AI/ML • Computer Vision • Embedded Systems</h3>
+<div align="center">
+
+<pre>
+     ██╗  ███████╗  ███╗   ███╗  ██╗  ███╗   ██╗
+     ██║  ██╔════╝  ████╗ ████║  ██║  ████╗  ██║
+     ██║  █████╗    ██╔████╔██║  ██║  ██╔██╗ ██║
+██   ██║  ██╔══╝    ██║╚██╔╝██║  ██║  ██║╚██╗██║
+╚█████╔╝  ███████╗  ██║ ╚═╝ ██║  ██║  ██║ ╚████║
+ ╚════╝   ╚══════╝  ╚═╝     ╚═╝  ╚═╝  ╚═╝  ╚═══╝
+</pre>
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=9999999&color=6366F1&center=true&vCenter=true&width=700&repeat=false&lines=Computer+Vision+%E2%80%A2+Machine+Learning+%E2%80%A2+Embedded+Systems" />
+</p>
 
 
-- 🌱 I’m currently learning **Computer Vision, ML and Embedded Systems**
+- 🌱 Learning fast enough to catch up with my ambitions.
 
 - 📫 How to reach me **jeminmorabiyawork@gmail.com**
 
@@ -11,6 +25,8 @@
 ## Connect with me
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kaggle)](https://www.kaggle.com/jeminm)
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/jemin-morabiya-339852368)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/C76gNljs1T/)
+
 
 
 ## 🛠️ Skills
@@ -32,3 +48,25 @@
 
 ### 📚 Currently Learning
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust)
+
+---
+## 📊 My Stats
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=jemin-023&show_icons=true&theme=github_dark&show=discussions_started"
+    width="400"
+  />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=jemin-023&theme=github_dark"
+    width="400"
+  />
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jemin-023&theme=react-dark"
+  />
+
+</div>
+---
