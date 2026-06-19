@@ -44,12 +44,20 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,mint,ubuntu,arch)
 
 ### ⚙️ Tools & Others
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,git,github,n8n,docker)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,git,github,n8n,docker,obsidian)
 
 ### 📚 Currently Learning
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust)
 
 ---
+
+## 🏆 Achievements
+
+| Event | Organization | Achievement |
+|--------|-------------|-------------|
+| WebForge 2026 | Manipal University Jaipur | 🥉 3rd Place |
+
+
 ## 📊 My Stats
 
 <div align="center">
