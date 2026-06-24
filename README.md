@@ -63,16 +63,6 @@
 <div align="center">
 
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=jemin-023&show_icons=true&theme=github_dark&show=discussions_started"
-    width="400"
-  />
-
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=jemin-023&theme=github_dark"
-    width="400"
-  />
-
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=jemin-023&theme=react-dark"
   />
 
