@@ -35,7 +35,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,bash)
 
 ### 📊 Data Science
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,polars,matplotlib)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,polars,matplotlib,seaborn,numpy)
 
 ### 🧠 AI & ML
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,jax,opencv)
