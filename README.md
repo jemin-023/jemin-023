@@ -56,6 +56,8 @@
 | Event | Organization | Achievement |
 |--------|-------------|-------------|
 | WebForge 2026 | Manipal University Jaipur | 🥉 3rd Place |
+| Biothon 2026 [ India's Biggest biology hackathon ] | Marwadi University  | Finalist |
+
 
 
 ## 📊 My Stats
