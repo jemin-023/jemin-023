@@ -58,15 +58,4 @@
 | WebForge 2026 | Manipal University Jaipur | 🥉 3rd Place |
 | Biothon 2026 [ India's Biggest biology hackathon ] | Marwadi University  | Finalist |
 
-
-
-## 📊 My Stats
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jemin-023&theme=react-dark"
-  />
-
-</div>
 ---
