@@ -35,7 +35,11 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,bash)
 
 ### 📊 Data Science
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,polars,matplotlib,seaborn,numpy)
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,polars,matplotlib,seaborn,numpy" />
+  <img src="assets/CuPy.svg" width="48" height="48" alt="CuPy" />
+</p>
+
 
 ### 🧠 AI & ML
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,jax,opencv)
@@ -44,7 +48,10 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,mint,ubuntu,arch)
 
 ### ⚙️ Tools & Others
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,git,github,n8n,docker,obsidian)
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino,git,github,n8n,docker,obsidian" />
+  <img src="assets/esp32_logo.svg" width="48" height="48" alt="ESP32" />
+</p>
 
 ### 📚 Currently Learning
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust)
