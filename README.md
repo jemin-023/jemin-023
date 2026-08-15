@@ -54,7 +54,7 @@
 </p>
 
 ### 📚 Currently Learning
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,raspberrypi)
 
 ---
 
