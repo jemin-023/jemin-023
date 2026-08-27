@@ -11,17 +11,18 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jemin-023/jemin-023/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jemin-023/jemin-023/main/light.svg">
+  <img alt="Jemin Morabiya — ECE @ IIIT Pune · ML & Systems" src="https://raw.githubusercontent.com/jemin-023/jemin-023/main/dark.svg">
+</picture>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=9999999&color=6366F1&center=true&vCenter=true&width=700&repeat=false&lines=Computer+Vision+%E2%80%A2+Machine+Learning+%E2%80%A2+Embedded+Systems" />
 </p>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jemin-023/jemin-023/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jemin-023/jemin-023/main/light.svg">
-  <img alt="Jemin Morabiya — ECE @ IIIT Pune · ML & Systems" src="https://raw.githubusercontent.com/jemin-023/jemin-023/main/dark.svg">
-</picture>
 
 </div>
 
