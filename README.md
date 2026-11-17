@@ -67,7 +67,9 @@
 | Event | Organization | Achievement |
 |--------|-------------|-------------|
 | WebForge Hackathon 2026 | Manipal University Jaipur | 🥉 3rd Place |
-| Biothon 2026 [India's Biggest biology hackathon] | Marwadi University  | Finalist |
 | Neural Nexus AI/ML/DL Competition | COEP, MindSpark 2026  | 4th Place |
+| Perceptron Hackathon | IIT Bombay, Techfest  | Finalist |
+| Biothon 2026 [India's Biggest biology hackathon] | Marwadi University  | Finalist |
+
 
 ---
